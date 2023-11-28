@@ -1,1 +1,1 @@
-print("welcome to git commands")
+scanf("welcome to git hub darshan")
