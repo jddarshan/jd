@@ -1,1 +1,0 @@
-scanf("welcome to git hub darshan")
